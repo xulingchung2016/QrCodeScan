@@ -1,0 +1,34 @@
+10
+
+dir
+3026
+http://192.168.2.200:4433/svn/IT/ANDROID/%E7%89%88%E6%9C%AC150212/QrCodeScan/libs
+http://192.168.2.200:4433/svn/IT
+
+
+
+2015-06-10T09:25:13.142397Z
+738
+xulinchun
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d4b5e170-d855-0044-95f3-7473ea39263a
+
+armeabi
+dir
+
+armeabi-v7a
+dir
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/IT/!svn/ver/320/ANDROID/%E7%89%88%E6%9C%AC150212/QrCodeScan/src/com/zbar/lib/decode
+END
+DecodeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/IT/!svn/ver/320/ANDROID/%E7%89%88%E6%9C%AC150212/QrCodeScan/src/com/zbar/lib/decode/DecodeHandler.java
+END
+DecodeThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/IT/!svn/ver/320/ANDROID/%E7%89%88%E6%9C%AC150212/QrCodeScan/src/com/zbar/lib/decode/DecodeThread.java
+END
+FinishListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/IT/!svn/ver/320/ANDROID/%E7%89%88%E6%9C%AC150212/QrCodeScan/src/com/zbar/lib/decode/FinishListener.java
+END
+CaptureActivityHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/IT/!svn/ver/320/ANDROID/%E7%89%88%E6%9C%AC150212/QrCodeScan/src/com/zbar/lib/decode/CaptureActivityHandler.java
+END
+InactivityTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/IT/!svn/ver/320/ANDROID/%E7%89%88%E6%9C%AC150212/QrCodeScan/src/com/zbar/lib/decode/InactivityTimer.java
+END
